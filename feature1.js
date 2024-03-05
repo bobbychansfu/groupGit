@@ -4,3 +4,7 @@ class User {
         
     }
 }
+
+class Products {
+
+}
