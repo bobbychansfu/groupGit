@@ -4,3 +4,7 @@ class User {
         
     }
 }
+
+function f1(){
+
+}
