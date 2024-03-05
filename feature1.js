@@ -5,6 +5,12 @@ class User {
     }
 }
 
+
+class Products {
+
+}
+
 function f1(){
+
 
 }
