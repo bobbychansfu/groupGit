@@ -14,3 +14,7 @@ function f1(){
 
 
 }
+
+class feat4 {
+
+}
