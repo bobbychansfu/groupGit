@@ -36,3 +36,7 @@ function helper() {
 
 }
 
+function timer()  {
+    console.log("timer");
+
+}
