@@ -39,3 +39,5 @@ function helper() {
 function finalFunc() {
     console.log("finalFunc");
 }
+
+// more code
