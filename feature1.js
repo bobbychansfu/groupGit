@@ -22,3 +22,8 @@ function login() {
 
 
 }
+
+function logout() {
+ console.log('logout');
+}
+
