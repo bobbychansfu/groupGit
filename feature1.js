@@ -36,7 +36,15 @@ function helper() {
 
 }
 
+
 function timer()  {
     console.log("timer");
 
 }
+
+function finalFunc() {
+    console.log("finalFunc");
+}
+
+// more code
+
