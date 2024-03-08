@@ -19,6 +19,6 @@ function f1(){
 class feat4 {
 }
 function login() {
-
+    console.log("login");
 
 }
