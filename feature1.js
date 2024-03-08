@@ -22,3 +22,7 @@ function login() {
     console.log("login");
 
 }
+function helper() {
+    console.log("helper");
+
+}
