@@ -4,4 +4,11 @@ module.exports = class Product {
 
     }
     
+    buyProduct() {
+    
+    }
+
+    addProduct() {
+    
+    }
 }
