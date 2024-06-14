@@ -4,4 +4,7 @@ module.exports = class Product {
 
     }
 
+    addProduct() {
+        console.log("Product added");
+    }
 }
