@@ -1,10 +1,6 @@
-class Feature2 {
+module.exports = class Product {
 
-    logout(){
-        console.log('logout');
-    }
-
-    helper1(){
+    constructor() {
 
     }
 
