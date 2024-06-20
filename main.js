@@ -6,5 +6,3 @@ const User = require('./feature1');
 let p = new User();
 
 // small change
-
-// small change 2
